@@ -1,0 +1,11 @@
+{
+  "name": "prettier-config-whatskit",
+  "version": "0.1.0",
+  "description": "whatskit prettier config",
+  "homepage": "https://whatskit.com",
+  "repository": "git@github.com:whatskit/prettier-config-whatskit",
+  "bugs": "https://github.com/whatskit/prettier-config-whatskit/issues",
+  "license": "MIT",
+  "author": "Billgo <hi@billgo.me>",
+  "main": "index.json"
+}
