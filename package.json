@@ -1,6 +1,6 @@
 {
   "name": "prettier-config-whatskit",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "whatskit prettier config",
   "homepage": "https://whatskit.billgo.me",
   "repository": "git@github.com:whatskit/prettier-config",
