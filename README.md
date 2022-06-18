@@ -13,7 +13,6 @@ $ yarn add --dev prettier-config-whatskit
 
 ```jsonc
 {
-  // ...
   "prettier": "prettier-config-whatskit"
 }
 ```

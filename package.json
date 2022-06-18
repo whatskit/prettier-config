@@ -1,11 +1,15 @@
 {
   "name": "prettier-config-whatskit",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "whatskit prettier config",
-  "homepage": "https://whatskit.com",
-  "repository": "git@github.com:whatskit/prettier-config-whatskit",
-  "bugs": "https://github.com/whatskit/prettier-config-whatskit/issues",
+  "homepage": "https://whatskit.billgo.me",
+  "repository": "git@github.com:whatskit/prettier-config",
+  "bugs": "https://github.com/whatskit/prettier-config/issues",
   "license": "MIT",
   "author": "Billgo <hi@billgo.me>",
-  "main": "index.json"
+  "main": "index.json",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
